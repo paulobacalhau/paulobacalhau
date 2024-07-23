@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Possuo graduação em TECNOLOGO EM ELETRÔNICA pelo Instituto de Tecnologia da Amazônia (1986) e mestrado em Ciência da Computação pela Universidade Federal de Santa Catarina (2001). 
-Tenho experiência na área de desenvolvimento de sistemas, suporte, hardware e telecomunicações, tendo participado de diversos projetos na área bancária, comercial e contábil. 
+Tenho experiência na área de desenvolvimento de sistemas, suporte, hardware e telecomunicações, tendo participado de diversos projetos na área bancária, comercial e contábil.
 Fui gerente de TI em CPD de grande porte durante cinco anos.  
 Fui Coordenador de Curso de Ensino Superior (Engenharia Elétrica) por dois anos. 
 Fui coordenador dos cursos de Sistemas de Informação, CST em Redes de Computadores e CST em Análise de Sistemas de Fevereiro/2022 a Junho/2023. 
