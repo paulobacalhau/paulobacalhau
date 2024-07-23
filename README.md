@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Possui graduação em TECNOLOGO EM ELETRÔNICA pelo Instituto de Tecnologia da Amazônia (1986) e mestrado em Ciência da Computação pela Universidade Federal de Santa Catarina (2001). Tem experiência na área de desenvolvimento de sistemas, suporte, hardware e telecomunicações, tendo participado de diversos projetos na área bancária, comercial e contábil. Foi gerente de TI em CPD de grande porte durante cinco anos.  É professor há mais de vinte e cinco anos. Foi Coordenador de Curso de Ensino Superior (Engenharia Elétrica) por dois anos. Foi coordenador dos cursos de Sistemas de Informação, CST em Redes de Computadores e CST em Análise de Sistemas de Fevereiro/2022 a Junho/2023. Atualmente é professor da UNISAPIENS em Porto Velho - RO e presta serviços em empresa de desenvolvimento de software de Automação Comercial como consultor/analista de sistemas.
+Como me encontrar:
+Email: paulo.bacalhau@gmail.com
+Linkedin: https://www.linkedin.com/in/paulo-bacalhau/
+
